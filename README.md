@@ -27,7 +27,7 @@ Bu Python uygulaması, Hamming kodu oluşturma, belleğe yazma, bellekten okuma,
 1. Depoyu yerel makinenize klonlayın:
 
     ```bash
-    git clone https://github.com/kullanıcı_adın/hamming-simulator.git
+    git clone https://github.com/Adileakklc/hamming-simulator.git
     cd hamming-simulator
     ```
 
